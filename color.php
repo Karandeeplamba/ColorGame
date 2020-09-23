@@ -1,3 +1,3 @@
 <?php
-include_once("colorGame.html")
+include_once("colorGame.html");
 ?>
